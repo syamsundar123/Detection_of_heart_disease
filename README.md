@@ -14,7 +14,7 @@
 
 
 ## Result Page
-### If patient enters correct symptoms  System will detect type of Disease and shows types disease and selected symptoms here in result Page
+### If patient enters correct symptoms,  System will detect type of Disease and shows type of  disease and selected symptoms here in result Page
 
 ![Result_page](https://user-images.githubusercontent.com/56387441/116800431-a6c18100-ab1e-11eb-8755-db4df37e03df.png)
 

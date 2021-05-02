@@ -1,6 +1,6 @@
 #  **Detection Of Heart Diseases Using Python**
 
-## ** About App **
+## **About App**
 ### i)It consists of three Pages
 ###     Landing Page  --> It is first page of our App
 ###     Symptoms Page --> Patient can select sympotms and click submit to know the disease

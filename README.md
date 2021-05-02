@@ -1,5 +1,10 @@
 #  **Detection Of Heart Diseases Using Python**
+## **Working**:
+### System will take symptoms as input
+### Analyse the sypmtoms and detects type of Heart Disease
+### Shows **Type of Heart disease** to the Patient along with selected symptoms
 
+# ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Landing Page:
 ### First Page of App
 ![landing_page](https://user-images.githubusercontent.com/56387441/116800359-02d7d580-ab1e-11eb-9b4c-00414f90bfac.png)

@@ -1,2 +1,2 @@
-                                                                      #**Detection Of Heart Diseases Using Python**
+#  **Detection Of Heart Diseases Using Python**
                                                                       

@@ -1,4 +1,5 @@
 #  **Detection Of Heart Diseases Using Python**
+## It is used to know the type of Heart Disease based on the sypmtoms patient being experienced.
 
 ## **About App**
 ### i)It consists of three Pages
